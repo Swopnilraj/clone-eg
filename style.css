@@ -1,0 +1,52 @@
+.header{
+    display: inline;
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+.header2{
+    display: inline-block;
+    margin: 10px 10px;
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    
+}
+.nav {
+    margin-top: -28px;
+}
+.logo{
+    display: inline;
+    
+    margin-left: 90px;
+    font-size: x-large;
+}
+.upload{
+    display: inline-block;
+    background-color: rgb(237, 57, 222);
+    padding: 5px 5px;
+    margin: 30px 30px;
+    margin-left: 30px;
+    color: white;
+    margin-right: 5px;
+    width: 80px;
+    margin-top: 40px;
+    
+}
+input{
+    border-radius: 25px;
+    border: 1 px solid gray;
+    height: 35px;
+}
+.account{
+    
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline;    
+
+}
+.nav2{
+    margin-top: 10px;
+}
